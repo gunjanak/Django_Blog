@@ -88,3 +88,5 @@ def post_comment(request,post_id):
         'form':form,
         'comment':comment
     })
+
+#this is comment
